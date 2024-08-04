@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/fadliaditama22" target="blank"><img src="https://img.shields.io/twitter/follow/fadliaditama22?logo=twitter&style=for-the-badge" alt="fadliaditama22" /></a> </p>
 
+- 🔭 I’m currently working on **Pusintek, Kementerian Keuangan**
+
 - 🌱 I’m currently learning **Backend use ExpressJS & MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://fadliaditama.netlify.app/](https://fadliaditama.netlify.app/)
