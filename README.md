@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/fadliaditama22" target="blank"><img src="https://img.shields.io/twitter/follow/fadliaditama22?logo=twitter&style=for-the-badge" alt="fadliaditama22" /></a> </p>
 
+<a href="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/e175f5eb-8170-4d82-b712-400f0ac61859"><img src="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/e175f5eb-8170-4d82-b712-400f0ac61859.svg" alt="wakatime"></a>
+
+<a href="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/68636f43-6164-4f33-b837-1ca5e533a453"><img src="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/68636f43-6164-4f33-b837-1ca5e533a453.svg" alt="wakatime"></a>
+
 - 🔭 I’m currently working on **Pusintek, Kementerian Keuangan**
 
 - 🌱 I’m currently learning **Backend use ExpressJS & MongoDB**
