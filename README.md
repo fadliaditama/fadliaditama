@@ -36,6 +36,6 @@
 
 ---
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nobikun/e66d5cfa-e38a-4f09-804f-3ffa9663191a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nobikun/a01b95cc-0a97-4c98-8ba2-82494d25f1b6.png" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
