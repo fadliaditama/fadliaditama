@@ -36,6 +36,7 @@
 
 ---
 
+### Embeddable Charts From Wakatime
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@nobikun/a01b95cc-0a97-4c98-8ba2-82494d25f1b6.png" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
