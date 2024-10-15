@@ -7,8 +7,6 @@
 
 <a href="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/68636f43-6164-4f33-b837-1ca5e533a453"><img src="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/68636f43-6164-4f33-b837-1ca5e533a453.svg" alt="wakatime"></a>
 
-<figure><embed src="https://wakatime.com/share/@nobikun/fc69234c-7cf7-41bc-b550-f94ca26a97d0.svg"></embed></figure>
-
 - 🔭 I’m currently working on **Pusintek, Kementerian Keuangan**
 
 - 🌱 I’m currently learning **Backend use ExpressJS & MongoDB**
@@ -37,5 +35,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=fadliaditama&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nobikun/e66d5cfa-e38a-4f09-804f-3ffa9663191a.png" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
