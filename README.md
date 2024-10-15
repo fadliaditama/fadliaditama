@@ -1,6 +1,8 @@
 <h1 align="center">Hey, Fadli's here!👋</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+<a href="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/e175f5eb-8170-4d82-b712-400f0ac61859"><img src="https://wakatime.com/badge/user/0d5901ed-7bf6-4c36-82b9-3087f9946352/project/e175f5eb-8170-4d82-b712-400f0ac61859.svg" alt="wakatime"></a>
+
 
 [![](https://visitcount.itsvg.in/api?id=fadliaditama&icon=0&color=1)](https://visitcount.itsvg.in)
 
