@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **Pusintek, Kementerian Keuangan**
 
+- 🚀 I'm develop web applications using Angular Framework and TypeScript for frontend development.
+
 - 🌱 I’m currently learning **Backend use ExpressJS & MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://fadliaditama.netlify.app/](https://fadliaditama.netlify.app/)
